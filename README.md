@@ -1,2 +1,2 @@
 # Maze-Game-FSharp
-So fucking recursive
+A recursive Maze Game
